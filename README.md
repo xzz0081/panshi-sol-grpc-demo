@@ -377,15 +377,13 @@ stream.on('error', (error) => {
 
 ## 🙏 致谢
 
-- [Triton One](https://triton.one/) - 提供优秀的Yellowstone gRPC客户端
-- [Solana Labs](https://solana.com/) - Solana区块链平台
-- [Shyft](https://shyft.to/) - 提供可靠的gRPC服务
+- [Triton One](https://t.me/panshishequ1) - 提供优秀的Yellowstone gRPC客户端
 
 ## 📞 联系我们
 
 - 项目维护者: [@xzz0081](https://github.com/xzz0081)
-- 问题反馈: [GitHub Issues](https://github.com/xzz0081/panshi-sol-grpc-demo/issues)
-- 讨论交流: [GitHub Discussions](https://github.com/xzz0081/panshi-sol-grpc-demo/discussions)
+- 问题反馈: [GitHub Issues](https://t.me/panshishequ1)
+- 磐石社区讨论交流: (https://t.me/panshishequ1)
 
 ---
 
