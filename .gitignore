@@ -1,3 +1,10 @@
+# 敏感目录 - 防止意外上传
+shrlt-/
+private/
+secrets/
+config/
+.secrets/
+
 # Dependencies
 node_modules/
 target/
@@ -112,3 +119,14 @@ target/
 build/
 dist/
 out/
+
+# 敏感文件类型
+*.key
+*.pem
+*.p12
+*.pfx
+secrets.json
+config.json
+wallet.json
+private-key.*
+mnemonic.*
